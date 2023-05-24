@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gernotst
-- 👀 I’m interested in audio user interfaces, AR, robotics, art, architecture
+- 👀 I’m interested in robotics, art, architecture
 - 📫 More about me on [LinkedIn](https://www.linkedin.com/in/gernotstangl/)
 
 <!---
